@@ -1,5 +1,5 @@
 # Predicting-Attorney-Representation-In-Insurance-Claims-Using-Logistic-Regression
-Buisness Problem:
+Buisness Problem : 
 Insurance companies often face challenges in managing claims efficiently.
 One critical asect is understanding whether a claimant will hire an attorney to represent them in the claim process. This can significantly impact the cost ,duration and outcome of the claims
 
